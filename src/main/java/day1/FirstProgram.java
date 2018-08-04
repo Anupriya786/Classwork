@@ -13,6 +13,8 @@ FirstProgram o2 = new FirstProgram();
 myAge=o2.myAge;
 System.out.println(o2.myAge);
 //change by Anu
+myAge=o2.myAge; // changed by abhinaya
+//System.out.println(o2.myAge);
 	}
 
 }
