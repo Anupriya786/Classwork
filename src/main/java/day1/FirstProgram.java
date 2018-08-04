@@ -12,6 +12,7 @@ FirstProgram o1 = new FirstProgram();
 FirstProgram o2 = new FirstProgram();
 myAge=o2.myAge;
 System.out.println(o2.myAge);
+//change by Anu
 	}
 
 }
